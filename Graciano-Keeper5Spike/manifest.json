@@ -1,0 +1,19 @@
+{
+	"name": "Keeper5Spike",
+	"namespace": "Graciano",
+	"version_number": "0.1.0",
+	"description": "Keeper5",
+	"website_url": "https://github.com/DomeKeeperMods",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["Bippinbits"],
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["7.0.0"],
+			"compatible_game_version": ["5.1.0"],
+			"config_schema": {}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+keeper5:
+  type: keeper
+  scenes:
+    keeper: mods-unpacked/Graciano-Keeper5Spike/keeper/Keeper5.tscn
+  addslots: [keepersuit, keepersupplement]
+  unlockslimits: [keeper5]
+  propertyChanges:
+    - keeper5.drillStrength = 2
+    - keeper5.maxSpeed = 56
+    - keeper5.speedLossPerCarry = 5.7
+    - keeper5.jetpackStage = 0
+    - keeper5.acceleration = 5
+    - keeper5.deceleration = 4
+    - keeper5.slowdownRecovery = 4
+    - keeper5.tileKnockback = 7
+    - keeper5.tileHitCooldown = 0.35
+    - keeper5.hardtilesmodifier = 1.0
+    - keeper5.destroyindestructibletiles = false/h
+    - keeper.additionalupwardsspeed = 0.0
+    - keeper.speedbuff = 0.0
+    - keeper.drillbuff = 0.0
+    - keeper.zoominmine = 0.0

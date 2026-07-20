@@ -1,0 +1,17 @@
+{
+	"name": "Monster",
+	"namespace": "Test",
+	"version_number": "1.0.0",
+	"description": "Adds a new monster to the game.",
+	"website_url": "https://github.com/DomeKeeperMods",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Bippinbits"],
+			"compatible_mod_loader_version": "7.0.0",
+			"compatible_game_version": ["5.1.0"],
+			"config_schema": {}
+		}
+	}
+}
